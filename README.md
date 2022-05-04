@@ -3,9 +3,9 @@
 java platformer 
 
 drawable maps, control with arrow keys space to jump, return to start esc to exit.
-just 3 levels you can just draw more if you want 
+just 2 levels you can just draw more if you want 
 
-Some gameplay screenshots from level 1:
+Some gameplay screenshots from level 1 & 2:
 
 
 ![1](https://user-images.githubusercontent.com/56176145/166818111-d481d1c3-0651-4514-9223-78ad9b9444e0.jpg)
